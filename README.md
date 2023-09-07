@@ -1,3 +1,12 @@
+# Run (using volta)
+
+Prerequisite: Volta, pnpm@8.6.12 (install via `volta install pnpm@8.6.12`);
+
+- install packages by `pnpm install`
+
+- run `npm run dev`, then go to http://localhost:3000/
+
+
 # Anthony's QR Toolkit
 
 A toolkit mainly for AI-Generated QR Codes, with the ability to generate base QR codes, and compare with the output to find misaligned pixels.
